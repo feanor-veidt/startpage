@@ -5,10 +5,10 @@ var data = {
     // -------------------------------------------------
     // Greetings config. Change greetings from here
 
-    g1: "おやすみなさい", // From 23:00 to 5:00
-    g2: "おはようございます", // Until 12:00
-    g3: "こんにちは", // Until 17:00
-    g4: "おやすみなさい", // Rest of the time
+    g1: "You should sleep", // From 23:00 to 5:00
+    g2: "The clowns are at work", // Until 12:00
+    g3: "Almost time to train", // Until 17:00
+    g4: "Well here you are", // Rest of the time
 
     // Font size of the greeting
     greeting_fontsize: "40px",
@@ -44,12 +44,12 @@ var data = {
 
     // -------------------------------------------------
     // Enable/disable site icons
-    enable_icons: false,
+    enable_icons: true,
     links_hover: true,
 
     // -------------------------------------------------
     // Page title
-    title: "ここから始める",
+    title: "Disconnect from the simulation",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
@@ -63,6 +63,6 @@ var data = {
     // startpage
     // ecosia
     // youtube
-    search_engine: "google",
+    search_engine: "startpage",
 
 }
